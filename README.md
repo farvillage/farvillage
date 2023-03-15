@@ -36,7 +36,3 @@
 </div>
 
 ##
- 
-<img align="center" src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
-
-##
