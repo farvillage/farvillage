@@ -33,7 +33,5 @@
 </div>
 
 ##
-
-<a href="/gif/walk-like-an-egyptian-H_f6Yj" title="Walk like an Egyptian"><img src="https://i.makeagif.com/media/7-31-2017/H_f6Yj.gif" alt="Walk like an Egyptian"></a><div style="font-size:11px;">
  
-<img align="right" src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
+<img align="center" src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
