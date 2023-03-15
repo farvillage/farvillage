@@ -13,7 +13,7 @@
   <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" src="https://discord.com/channels/826161581851148308/826161581851148311/1085561753615728690">
+  <img align="right" src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
  
 
 ##
