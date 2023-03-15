@@ -1,4 +1,4 @@
-### Hello there, I am Ygor Carvalho. 😁
+### Hello there, I am Ygor Carvalho! 😁
 
 - I’m currently studying on Systems for Internet (UNIESP). 🎒
 - I’m currently learning HTML, CSS, JS and Python (planning to learn Ruby in my leisure). 💭
