@@ -5,10 +5,10 @@
 - How to reach me: Instagram, LinkedIn, Discord. 📮
 - Fun fact: I love Fórmula 1 (and sports in general), love interactions with people (very talkative). 🍞
 
-## Currently learning: 
+## My stats:
 
 <div>
-  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width "40" height "40"/> 
-  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width "40" height "40"/> 
-  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width "40" height "40"/>
-<div/> 
+  <a href="https://github.com/farvillage">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farvillage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&langs_count=16&theme=dracula"/>
+</div>
