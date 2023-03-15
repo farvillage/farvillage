@@ -13,7 +13,7 @@
   <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" src="[https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fvettel&psig=AOvVaw3hA8Du56kjDddjI1YskWPe&ust=1678974761487000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjQkcSK3v0CFQAAAAAdAAAAABAE)">
+  <a href="/gif/walk-like-an-egyptian-H_f6Yj" title="Walk like an Egyptian"><img src="https://i.makeagif.com/media/7-31-2017/H_f6Yj.gif" alt="Walk like an Egyptian"></a><div style="font-size:11px;">make <a href="/" title="make a gif">sports GIFs</a> like this at MakeaGif</div>">
  
 
 ##
