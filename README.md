@@ -11,6 +11,6 @@
 
 <div>
   <a href="https://github.com/farvillage">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farvillage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farvillage&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&langs_count=16&theme=shades-of-purple"/>
 </div>
