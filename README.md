@@ -1,4 +1,7 @@
+##
 ### Hello there, I am Ygor Carvalho! 😁
+
+<img align="center" src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
 
 - I’m currently studying on Systems for Internet (UNIESP). 🎒
 - I’m currently learning HTML, CSS, JS and Python (planning to learn Ruby in my leisure). 💭
@@ -35,3 +38,5 @@
 ##
  
 <img align="center" src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
+
+##
