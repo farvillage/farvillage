@@ -13,8 +13,6 @@
   <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="/gif/walk-like-an-egyptian-H_f6Yj" title="Walk like an Egyptian"><img src="https://i.makeagif.com/media/7-31-2017/H_f6Yj.gif" alt="Walk like an Egyptian"></a><div style="font-size:11px;">
- 
 
 ##
 ### Social media:
@@ -33,3 +31,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farvillage&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
+
+##
+
+<a href="/gif/walk-like-an-egyptian-H_f6Yj" title="Walk like an Egyptian"><img src="https://i.makeagif.com/media/7-31-2017/H_f6Yj.gif" alt="Walk like an Egyptian"></a><div style="font-size:11px;">
+ 
