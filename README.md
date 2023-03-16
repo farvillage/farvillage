@@ -3,7 +3,7 @@
 
 <img align="center" src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
 
-- I’m currently studying on Internet Systems (UNIESP). 🎒
+- I’m currently studying Internet Systems (UNIESP). 🎒
 - Learning HTML, CSS, JS and Python (planning to learn Ruby in my leisure). 💭
 - How to reach me? Instagram, LinkedIn, Discord. 📮
 - Fun fact: I love Formula 1 (and sports in general), love interactions with people (very talkative). 🍞
