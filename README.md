@@ -40,7 +40,6 @@
   <a href="https://github.com/farvillage">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farvillage&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&langs_count=16&theme=material-palenight"/>
-<img scr="https://github-readme-activity-graph.cyclic.app/graph?username=farvillage&theme=material-palenight"/>
 </div>
-
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=farvillage&theme=gotham)
 ##
