@@ -42,6 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
   
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=farvillage&theme=rogue)
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=farvillage&theme=github-compact)
 
 ##
