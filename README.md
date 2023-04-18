@@ -4,7 +4,7 @@
 <a href="#"><img align="center" src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
 
 - I’m currently studying Internet Systems (UNIESP). 🎒
-- Learning HTML, CSS, JS and Python (planning to learn C# and Ruby in my leisure). 💭
+- Learning HTML, CSS, JavaScript and Python (planning to learn C# and Ruby in my leisure). 💭
 - How to reach me? Instagram, LinkedIn, Discord. 📮
 - Fun fact: I love Formula 1 (and sports in general), love interactions with people (very talkative). 🍞
 
@@ -16,6 +16,9 @@
   <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ygor-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">      
+  <img align="center" alt="Ygor-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+          
 
 ##
 ### IDEs:
