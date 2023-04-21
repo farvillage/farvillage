@@ -1,5 +1,4 @@
-##
-### Hello there, I am Ygor Carvalho! 😁
+# Hello there, I am Ygor Carvalho! 😁
 
 <a href="#"><img align="center" src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
 
@@ -8,8 +7,7 @@
 - How to reach me? Instagram, LinkedIn, Discord. 📮
 - Fun fact: I love Formula 1 (and sports in general), love interactions with people (very talkative). 🍞
 
-## 
-### Currently learning:
+# Currently learning:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,16 +17,13 @@
   <img align="center" alt="Ygor-Flask" height="30" width="40" src="https://api.iconify.design/simple-icons/flask.svg?color=white"> 
   <img align="center" alt="Ygor-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
           
-
-##
-### IDEs:
+# IDEs:
 <div>  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
 <div/>         
 
-##
-### Contacts:
+# Contacts:
 
 <div>
   <a href="https://instagram.com/carvalhoygor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -36,8 +31,7 @@
   <a href="https://discord.gg/392652171163992064" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <div/>
 
-##
-### My stats:
+# My stats:
 
 <div>
   <a href="https://github.com/farvillage">
@@ -46,5 +40,3 @@
 </div>
   
   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=farvillage&theme=github-compact)
-
-##
