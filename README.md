@@ -42,4 +42,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
   
-  ![Github activitygraph](https://github-readme-activity-graph.cyclic.app/graph?username=farvillage&theme=github-compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farvillage&bg_color=000000&color=c496e5&line=c594e7&point=494260&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
