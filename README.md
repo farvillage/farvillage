@@ -5,7 +5,7 @@
 </div>
 
 - I’m currently studying Internet Systems (UNIESP). 🎒
-- Learning HTML, CSS, JavaScript and Python (planning to learn C# and Ruby in my leisure). 💭
+- My main focus is learning C#. 💭
 - How to reach me? Instagram, LinkedIn, Discord. 📮
 - Fun fact: I love Formula 1 (and sports in general), love interactions with people (very talkative). 🍞
 
@@ -18,6 +18,7 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
           
 # IDEs:
 <div>  
