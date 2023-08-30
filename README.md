@@ -5,7 +5,7 @@
 </div>
 
 - I’m currently studying Internet Systems (UNIESP). 🎒
-- My main focus is learning C#. 💭
+- My main focus is learning C#. 📕
 - How to reach me? Instagram, LinkedIn, Discord. 📮
 - Fun fact: I love Formula 1 (and sports in general), love interactions with people (very talkative). 🍞
 
