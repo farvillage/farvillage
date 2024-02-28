@@ -7,7 +7,7 @@
 - I’m currently studying Internet Systems (UNIESP). 🎒
 - My main focus is learning C#. 📕
 - How to reach me? Instagram, LinkedIn, Discord. 📮
-- Fun fact: I love Formula 1 (and sports in general), love interactions with people (very talkative). 🍞
+- Fun fact: I am christian and I love Formula 1 (and sports in general). 🍞
 
 # Currently learning:
 
@@ -21,12 +21,14 @@
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/>
   
 # IDEs:
 <div>  
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 <div/>         
 
 # Contacts:
@@ -44,5 +46,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farvillage&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farvillage&bg_color=000000&color=c496e5&line=c594e7&point=494260&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
