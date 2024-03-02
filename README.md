@@ -7,7 +7,7 @@
 - I’m currently studying Internet Systems (UNIESP). 🎒
 - My main focus is learning C#. 📕
 - How to reach me? Instagram, LinkedIn, Discord. 📮
-- Fun fact: I am christian and I love Formula 1 (and sports in general). 🍞
+- Fun fact: I am a follower of Jesus Christ and I love Formula 1 (and sports in general). 🍞
 
 # Currently learning:
 
