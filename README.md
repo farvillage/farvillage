@@ -5,8 +5,8 @@
 </div>
 
 - I’m currently studying Internet Systems (UNIESP). 🎒
-- My main focus is learning C#. 📕
-- How to reach me? Instagram, LinkedIn, Discord. 📮
+- My main focus is learning C# and .Net environment . 📕
+- How to reach me? Instagram, LinkedIn and Discord. 📮
 - Fun fact: I am a follower of Jesus Christ and I love motorsports. 🍞
 
 # Currently learning:
