@@ -9,10 +9,9 @@
 - I’m graduated in Internet Systems;
 - I'm currently pursuing a Master of Science in Wireless Network at IFPB;
 - Nowadays I'm learning Data Science and Machine Leaning;
-- How to reach me? Instagram, LinkedIn and Discord;
 - FYI: I'm a follower of Jesus Christ and I love motorsports. 
 
-# Contacts:
+## Contacts:
 
 <div>
   <a href="https://instagram.com/carvalhoygor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
