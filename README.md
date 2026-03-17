@@ -4,6 +4,8 @@
   <a href="#"><img src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif">
 </div>
 
+<br>
+
 - I’m graduated in Internet Systems;
 - I'm currently pursuing a Master of Science in Wireless Network at IFPB;
 - Nowadays I'm learning Data Science and Machine Leaning;
