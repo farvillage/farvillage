@@ -39,10 +39,9 @@
 </p>
 
 ### GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&theme=vision-glow" alt="Top Langs" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=farvillage&show_icons=true&theme=vision-glow" alt="GitHub Stats" height="165px"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&theme=tokyonight" alt="Top Langs" height="165px" />
+</div>
 
 ### Let's Connect
 [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ygorcarvalho44) 
