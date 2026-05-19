@@ -38,7 +38,7 @@
 </p>
 
 ### GitHub Analytics
-<div align="center">
+<div>
   <img src="https://github-readme-stats-beige-eight-52.vercel.app/api/top-langs/?username=farvillage&layout=compact&theme=tokyonight" alt="Top Langs" height="165px" />
 </div>
 
