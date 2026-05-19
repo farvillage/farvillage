@@ -39,7 +39,7 @@
 
 ### GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&theme=tokyonight" alt="Top Langs" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvillage&layout=compact&theme=tokyonight&langs_count=6&v=1" alt="Top Langs" height="165px" />
 </div>
 
 ### Let's Connect
