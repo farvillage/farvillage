@@ -5,7 +5,7 @@ I'm **Ygor Gesteira**, a Full Stack Developer and IT Master's student based in B
 I design and build robust web applications and conduct research on machine learning for network security.
 
 **What am I currently working on?**
-- Pursuing my Master's degree at IFPB, evaluating behavioral intrusion detection in Industrial IoT over private 5G networks.
+- Pursuing my Master's degree at IFPB, evaluating behavioral intrusion detection in Medical IoT over private 5G networks.
 - Building software solutions. Previously, I was a Web Dev Intern at Compass.UOL and acted as Tech Lead for *ZenPlace*, an AI-powered full-stack wellness platform.
 
 **What tools do I use?**
