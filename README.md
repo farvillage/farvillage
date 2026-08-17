@@ -9,7 +9,7 @@ I design and build robust web applications and conduct research on machine learn
 - Building software solutions. Previously, I was a Web Dev Intern at Compass.UOL and acted as Tech Lead for *ZenPlace*, an AI-powered full-stack wellness platform.
 
 **What tools do I use?**
-- **Core Stack:** JavaScript, TypeScript, Node.js, Bun, Python, and Flask.
+- **Core Stack:** JavaScript, TypeScript, Node.js, Python, C#.
 - **Data & Networking:** Pandas, Scikit-Learn, Scapy, and Mininet.
 - **Infra & DBs:** AWS, Docker, PostgreSQL, and SQLite.
 
