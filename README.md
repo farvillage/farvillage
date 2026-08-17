@@ -1,47 +1,24 @@
-# Hi, I'm Ygor Gesteira!
+# Hello there!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/mRoCaQMjS6xvgabiho/giphy.gif" width="300">
-  <p><i>Researcher | Developer </i></p>
-</div>
+I'm **Ygor Gesteira**, a Full Stack Developer and IT Master's student based in Brazil.
 
----
+I design and build robust web applications and conduct research on machine learning for network security.
 
-### About Me
-- **Research:** Currently pursuing an MSc in Wireless Networks at IFPB, specializing in **IIoT, 5G, and Machine Learning**.
-- **Dev Life:** Graduated in Internet Systems with a focus on building scalable, data-driven solutions.
-- **Interests:** Follower of Jesus Christ and a motorsports fan.
+**What am I currently working on?**
+- Pursuing my Master's degree at IFPB, evaluating behavioral intrusion detection in Industrial IoT over private 5G networks.
+- Building software solutions. Previously, I was a Web Dev Intern at Compass.UOL and acted as Tech Lead for *ZenPlace*, an AI-powered full-stack wellness platform.
 
-### Tech Stack & Tools
+**What tools do I use?**
+- **Core Stack:** JavaScript, TypeScript, Node.js, Bun, Python, and Flask.
+- **Data & Networking:** Pandas, Scikit-Learn, Scapy, and Mininet.
+- **Infra & DBs:** AWS, Docker, PostgreSQL, and SQLite.
 
-#### Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+**Fun Facts:**
+- I am a Christian.
+- I love to read books.
+- I love to take care of my health and physical well-being.
+- Favorite quote: *"I found it is the small everyday deeds of ordinary folk that keep the darkness at bay."* — J.R.R. Tolkien (Gandalf)
 
-#### Backend & Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
-</p>
-
-#### Data Engineering, Networking & AI (Master's Research)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Scapy-004482?style=flat-square&logo=python&logoColor=white" alt="Scapy"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-### GitHub Analytics
-<div>
-  <img src="https://github-readme-stats-beige-eight-52.vercel.app/api/top-langs/?username=farvillage&layout=compact&theme=tokyonight" alt="Top Langs" height="165px" />
-</div>
-
-### Let's Connect
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ygorcarvalho44) 
-[<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/ygorgesteira)
+**How to reach me?**
+- LinkedIn: [in/ygorgesteira](https://www.linkedin.com/in/ygorgesteira)
+- Email: ygorgesteira@gmail.com
