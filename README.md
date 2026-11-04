@@ -16,7 +16,7 @@ I design and build robust web applications and conduct research on machine learn
 **Fun Facts:**
 - I am a Christian.
 - I love to read books.
-- I love to take care of my health and physical well-being.
+- I love to go to the gym and jiu-jitsu.
 - Favorite quote: *"I found it is the small everyday deeds of ordinary folk that keep the darkness at bay."* — J.R.R. Tolkien (Gandalf)
 
 **How to reach me?**
